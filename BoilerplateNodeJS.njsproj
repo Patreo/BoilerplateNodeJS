@@ -32,6 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="controllers\index.js" />
+    <Compile Include="controllers\login.js" />
     <Compile Include="models\user.js" />
     <Compile Include="server.js" />
     <Content Include="helpers\empty.txt" />
