@@ -1,3 +1,2 @@
 node_modules/
-obj/
-.ntvs_analysis.dat
+package-lock.json
